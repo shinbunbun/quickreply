@@ -1,2 +1,2 @@
 # quickreply  
-GASとかLambdaとかHerokuとかのテストコード色々
+GASとかLambdaとかのテストコード色々
